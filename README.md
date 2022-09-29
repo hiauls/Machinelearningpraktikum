@@ -7,6 +7,9 @@ We realize that this project is not perfect, so we hope that readers can provide
 Thank you :relaxed:
 
 ## Details The Project
+***Title :***
+  _Classification of Retinal Diseases using K - Means Clustering_
+
 ***Member Name :***
   1. Iqmah Nurrizky A
   2. Aulia Lintang Ayu K.
