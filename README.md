@@ -1,14 +1,14 @@
-# KLASIFIKASI RETINAL DISEASE MENGGUNAKAN K-MEANS CLUSTERING
+# KLASIFIKASI CITRA BUNGA MAWAR MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN)
 
 ## About The Project
-Hello everyone, here we are making a machine learning project with the title _Classification of Retinal Diseases using K - Means Clustering_.
+Hello everyone, here we are making a machine learning project with the title _KLASIFIKASI CITRA BUNGA MAWAR MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN)_.
 This research uses the existing library in python. This project will run for six months.
 We realize that this project is not perfect, so we hope that readers can provide constructive criticism or suggestions for our research.
 Thank you :relaxed:
 
 ## Details The Project
 ***Title :***
-  _Classification of Retinal Diseases using K - Means Clustering_
+  _KLASIFIKASI CITRA BUNGA MAWAR MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK (CNN)_
 
 ***Member Name :***
   1. Iqmah Nurrizky A
@@ -18,7 +18,7 @@ Thank you :relaxed:
   Retinal Diseases Classification
   
 ***Dataset Link :***
-  [Retinal Diseases Classification](https://www.kaggle.com/datasets/andrewmvd/retinal-disease-classification)
+  [Rose Flowers Dataset](https://www.kaggle.com/datasets/muhammedtausif/rose-flowers)
 
 ***Jurnal Referensi :***
-  [Jurnal Referensi](https://ejournal3.undip.ac.id/index.php/transient/article/view/3510)
+  [Jurnal Referensi](...)
