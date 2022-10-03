@@ -15,10 +15,10 @@ Thank you :relaxed:
   2. Aulia Lintang Ayu K.
   
 ***Dataset :***
-  Retinal Diseases Classification
+  Rose Flowers Dataset
   
 ***Dataset Link :***
   [Rose Flowers Dataset](https://www.kaggle.com/datasets/muhammedtausif/rose-flowers)
 
 ***Jurnal Referensi :***
-  [Jurnal Referensi](...)
+  [Jurnal Referensi](https://jom.fti.budiluhur.ac.id/index.php/SKANIKA/article/view/2951)
